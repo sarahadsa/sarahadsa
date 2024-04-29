@@ -7,6 +7,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadsa)](https://github.com/sarahadsa/github-readme-stats)
+![sarahadsa GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahadsa&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia:
 
