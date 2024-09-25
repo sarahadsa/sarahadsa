@@ -23,7 +23,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Buscando evoluir e melhorar através de estudos e experiências com a tecnologia❤️‍🔥🤓
+Busco constantemente evoluir e me aprimorar através de estudos e experiências na área da tecnologia.❤🤓
 
 - 📚 Estudante de Análise e desenvolvimento de sistemas
 - 💼Tecnologias utilizadas: Javascript, Python e Sql
