@@ -26,5 +26,11 @@
 Buscando evoluir e melhorar através de estudos e experiências com a tecnologia❤️‍🔥🤓
 
 - 📚 Estudante de Análise e desenvolvimento de sistemas
-- 💼Estou a procura de estágio ou trabalho podendo atuar de forma presencial ou remota
+- 💼Tecnologias utilizadas: Javascript, Python e Sql
+- 📚 Com Foco em me desenvolver como QA
+- Habilidades: Testes de Software
+- Ferramentas de automação (Selenium e cypress
+- Metodologias ágeis (Scrum, Kanban)
+- Criação e execução de casos de teste
+- Identificação e resolução de bugs
   
