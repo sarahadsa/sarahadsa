@@ -25,11 +25,10 @@
 
 Busco constantemente evoluir e me aprimorar através de estudos e experiências na área da tecnologia.❤🤓
 
-- 📚 Estudante de Análise e desenvolvimento de sistemas
+- 📚 Desenvolvedora web focada na melhoria contínua e Garantia da Qualidade (QA).
 - 💼Tecnologias utilizadas: Javascript, Python e Sql
-- 📚 Com Foco em me desenvolver como QA
 - Habilidades: Testes de Software
-- Ferramentas de automação (Selenium e cypress
+- Ferramentas de automação (Selenium e cypress)
 - Metodologias ágeis (Scrum, Kanban)
 - Criação e execução de casos de teste
 - Identificação e resolução de bugs
