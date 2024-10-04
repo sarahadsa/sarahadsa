@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sarahadsa&theme=blue-green)
  
 
-## Tecnologias que eu uso no meu dia:
+## Ferramentas utilizadas:
 
 <div style="display: inline_block">
 
@@ -26,8 +26,6 @@
   <img align="center" alt="jira" src ="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img align="center" alt="vue.js" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div><br/>
-
-Busco constantemente evoluir e me aprimorar através de estudos e experiências na área da tecnologia.❤🤓
 
 - 📚 Desenvolvedora web focada na melhoria contínua e Garantia da Qualidade (QA).
 - 💼Tecnologias utilizadas: Javascript, Python e Sql
