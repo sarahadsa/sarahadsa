@@ -7,7 +7,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://mail.google.com/mail/u/0/#inbox)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/profiles/26834895367191)
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sarahadsa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahadsa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarahadsa&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
