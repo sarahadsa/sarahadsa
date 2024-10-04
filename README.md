@@ -7,9 +7,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://https://mail.google.com/mail/u/0/#inbox)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://support.discord.com/hc/en-us/profiles/26834895367191)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahadsa&anuraghazra&show_icons=true&theme=radical)
+
 
 
 ## Ferramentas utilizadas:
