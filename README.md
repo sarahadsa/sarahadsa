@@ -9,9 +9,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahadsa&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=sarahadsa&theme=blue-green)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahadsa&anuraghazra&show_icons=true&theme=radical)
+
 
 ## Ferramentas utilizadas:
 
