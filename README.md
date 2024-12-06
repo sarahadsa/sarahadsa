@@ -36,7 +36,7 @@
 ###
 
 - 📚 Desenvolvedora web focada na melhoria contínua e Garantia da Qualidade (QA).
-- 💼Tecnologias utilizadas: Javascript, Python e Sql
+- 💼Tecnologias utilizadas: Html, Css, Javascript, Node.js, Sql
 - Habilidades: Testes de Software
 - Ferramentas de automação (Selenium e cypress)
 - Metodologias ágeis (Scrum, Kanban)
