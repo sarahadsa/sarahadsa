@@ -35,10 +35,10 @@
 
 ###
 
-- 📚 Desenvolvedora web focada na melhoria contínua e Garantia da Qualidade (QA).
-- 💼Tecnologias utilizadas: Html, Css, Javascript, Node.js, Sql
+- 📚 Estudante de Analise e desenvolvimento de sistemas, com foco em QA.
+- 💼Tecnologias utilizadas: Html, Css, Javascript, Node.js, Banco de dados
 - Habilidades: Testes de Software
-- Ferramentas de automação (Selenium e cypress)
+- Ferramentas de automação: Cypress e Postman
 - Metodologias ágeis (Scrum, Kanban)
 - Criação e execução de casos de teste
 - Identificação e resolução de bugs
